@@ -5,12 +5,12 @@ Description
 ------------
 
 This service is based on Flask framework.
-There are three functions whose outputs are to be caluclated.
-The Fibonacci sequence generation, where it accepts a input number n and return the Fibonacci number.
-The Factorial generation of a number based on user input.
-Implementation of Ackermann function based on m and n integer values
-The Package has 1 main runner program and has 2 optional implementations. One is swagger implementation of the above three functions and the other is an efficiency program to check performance of two functions
-
+There are three functions for calculations.
+The Fibonacci sequence generation, where it accepts an input n and returns the Fibonacci number.
+The Factorial generation based on user input for non negative values.
+Implementation of Ackermann function based on m and n integer values.
+The Package has 1 main runner program and has 2 optional implementations. One is swagger implementation of the above three functions and the other is an efficiency program to check performance of two functions.
+The distribution package file is created in dist folder of the package.
 Requirements
 ------------
 1. Python 3.6 or higher version
