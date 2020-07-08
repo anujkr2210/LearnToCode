@@ -1,0 +1,14 @@
+README.md
+setup.py
+number_generator/Number_validator.py
+number_generator/Swagger.py
+number_generator/__init__.py
+number_generator/ackermann_func.py
+number_generator/efficiency-db.py
+number_generator/factorial_func.py
+number_generator/fib.py
+number_generator/home_runner.py
+number_generator.egg-info/PKG-INFO
+number_generator.egg-info/SOURCES.txt
+number_generator.egg-info/dependency_links.txt
+number_generator.egg-info/top_level.txt
